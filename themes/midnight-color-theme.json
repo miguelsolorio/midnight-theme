@@ -24,6 +24,8 @@
 
 		"activityBar.inactiveForeground": "#8C949E",
 		"foreground": "#8C949E",
+		"icon.foreground": "#8C949E",
+		"statusBar.foreground": "#8C949E",
 
 		"list.activeSelectionBackground": "#1F242A",
 		"list.inactiveSelectionBackground": "#1F242A",
