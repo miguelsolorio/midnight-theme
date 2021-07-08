@@ -1,0 +1,23 @@
+{
+	"name": "Midnight",
+	"type": "dark",
+	"colors": {
+		"activityBar.background": "#07090F",
+        "titleBar.activeBackground": "#07090F",
+        "statusBar.background": "#07090F",
+        "statusBar.noFolderBackground": "#07090F",
+        "editor.background": "#07090F",
+
+		"titleBar.border": "#2D2F34",
+		"activityBar.border": "#2D2F34",
+		"sideBar.border": "#2D2F34",
+		"statusBar.border": "#2D2F34",
+
+		"sideBar.background": "#0C1118",
+		"tab.inactiveBackground": "#0C1118",
+		"editorGroupHeader.tabsBackground": "#0C1118",
+
+		"tab.inactiveForeground": "#4C535B",
+	},
+	"tokenColors": []
+}

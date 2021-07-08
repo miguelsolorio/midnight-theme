@@ -1,0 +1,33 @@
+{
+  "name": "midnight-theme",
+  "displayName": "midnight",
+  "description": "A dark theme for VS Code",
+  "author": {
+    "name": "Miguel Solorio"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "clean": "node ./scripts/clean.js",
+    "build": "node scripts/build.js template/colors.json",
+    "start": "npm run clean && npm run build"
+  },
+  "devDependencies": {
+    "handlebars": "^4.7.7",
+    "rimraf": "^3.0.2"
+  }
+}
