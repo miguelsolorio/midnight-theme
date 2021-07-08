@@ -2,5 +2,12 @@
   "base01": "#07090F",
   "base02": "#2D2F34",
   "base03": "#0C1118",
-  "base04": "#4C535B"
+  "base04": "#4C535B",
+  
+  "accent01": "#0083E2",
+  "accent02": "#8C949E",
+  "accent03": "#1F242A",
+  "accent04": "#fff",
+
+  "transparent": "#0000"
 }
